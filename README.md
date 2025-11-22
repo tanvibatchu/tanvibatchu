@@ -22,5 +22,6 @@ welcome to my GitHub! i like building at the intersection of software, markets, 
   📎 currently working on a project about music 👀  
 
 🏋️‍♀️ when i’m not coding or doing finance and music things, i’m usually at the gym or cooking up a storm 😋
-💬 Get to know me more -> tanvi.batchu@uwaterloo.ca
+
+💬 get to know me more -> tanvi.batchu@uwaterloo.ca
 
