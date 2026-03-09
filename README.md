@@ -35,8 +35,6 @@ i build at the intersection of **software, markets, and finance** — from risk 
 ---
 
 ## 📌 what i build
-> *(pin your top repos here — a one-liner description goes a long way)*
-
 Projects tend to fall into:
 - 📊 **portfolio analytics & risk** — quantitative tools, factor models, backtesting engines
 - 🤖 **ai/ml in finance** — NLP on earnings calls, signal generation, LLM-powered workflows
@@ -66,9 +64,11 @@ carnatic singer (15+ years) · working out · cooking · always trying something
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvi-batchu)
 
 ---
-## stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvibatchu&show_icons=true&theme=dark&count_private=true&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=tanvibatchu&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvibatchu&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tanvibatchu&theme=dark&hide_border=true&mode=weekly&card_width=600&dates=EB5454&ring=EB5454&fire=EB5454&currStreakLabel=EB5454&sideLabels=EB5454&stroke=EB545400" />
 </p>
