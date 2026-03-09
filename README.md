@@ -66,9 +66,8 @@ carnatic singer (15+ years) · working out · cooking · always trying something
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvibatchu&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvibatchu&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=false" height="165"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tanvibatchu&theme=dark&hide_border=true&mode=weekly&card_width=600&dates=EB5454&ring=EB5454&fire=EB5454&currStreakLabel=EB5454&sideLabels=EB5454&stroke=EB545400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tanvibatchu&theme=dark&hide_border=true&mode=daily&card_width=600&dates=EB5454&ring=EB5454&fire=EB5454&currStreakLabel=EB5454&sideLabels=EB5454&stroke=EB545400" />
 </p>
