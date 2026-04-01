@@ -2,6 +2,8 @@
 
 > cs + finance @ university of waterloo · incoming ai engineer @ rbc capital markets
 
+https://tanvibatchu.vercel.app/
+
 i build at the intersection of **software, markets, and finance** — from risk pipelines and portfolio analytics to data infrastructure and ai-powered tools. i like projects that are practical, make an impact, are rigorous, and a little ambitious.
 
 ---
