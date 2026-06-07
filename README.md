@@ -1,6 +1,6 @@
 # hey, i'm tanvi 👋
 
-> cs + finance @ university of waterloo · incoming ai engineer @ rbc capital markets
+> cs + finance @ university of waterloo · ai engineer @ rbc capital markets
 
 https://tanvibatchu.vercel.app/
 
@@ -53,14 +53,7 @@ Projects tend to fall into:
 - 🇨🇦 **DECA Provincial Champion** | ICDC Top 8% (×2)
 - 📚 **Co-founder of busiAid** — financial literacy platform serving 500+ students across Canada
 - 🏅 **Lieutenant Governor's Community Volunteering Award** - led social initiatives in my community combatting youth homelessness, affordable healthcare, and more!
-
----
-
-## 🎵 outside of code
-
-carnatic singer (15+ years) · working out · cooking · always trying something new
-
----
+___
 
 ## 📬 let's connect
 
