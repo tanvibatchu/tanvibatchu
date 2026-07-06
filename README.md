@@ -37,15 +37,6 @@ i build at the intersection of **software, markets, and finance** — from risk 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## 📌 what i build
-Projects tend to fall into:
-- 📊 **portfolio analytics & risk** — quantitative tools, factor models, backtesting engines
-- 🤖 **ai/ml in finance** — NLP on earnings calls, signal generation, LLM-powered workflows
-- 🏗 **data pipelines** — ETL systems, financial data infrastructure, dashboards
-
----
-
 ## ✦ highlights
 
 - 🥉 **CIW Bronze Medallist** — top 10 female CCC scorer in Canada, invited to EGOI national team camp @ UWaterloo
