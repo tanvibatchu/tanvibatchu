@@ -2,7 +2,6 @@ hey, i'm tanvi 👋
 
 cs + finance @ university of waterloo · ai engineering & algo research @ rbc capital markets
 
-https://tanvibatchu.vercel.app/
 
 ✦ some things i've done
 - CIW Bronze Medallist — top 10 female CCC scorer in Canada, invited to EGOI national team camp @ UWaterloo
