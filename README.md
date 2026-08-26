@@ -1,6 +1,6 @@
 hey, i'm tanvi 👋
 
-cs + finance @ university of waterloo · ai engineering & algo research @ rbc capital markets
+cs + finance @ university of waterloo · algo research + engineering @ rbc capital markets
 
 
 ✦ some things i've done
